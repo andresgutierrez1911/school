@@ -1,0 +1,88 @@
+AChip        Chopper     111 Airway          Butte       MT85529
+AMike        Epson       297 Sessions Street Hanover     PA20324
+AAndrew      Bell        384 Pascal Avenue   Fort Worth  TX65502
+ATerri       Wells       3414 Spring Drive   Lawton      OK62091
+AJanet       Vandyke     2542 Symbol Lane    Dundalk     MD21222
+AConnie      Hunger      123 Crumley Cir     Valdosta    GA30602
+AEllen       Planters    6 Party Way         Happytrails NY07331
+ARobert      Lee         21 Confederate Lane Leesburg    VA27781
+AUlyssis     Grant       4 Union Court       Yonkers     NY07495
+AGeorge      Patton      1944 Army Hwy       Columbus    OH37890
+ASara        Lee         21 Confederate Lane Leesburg    VA27781
+AMartha      Washington  45 Virgina Ave      Sumpner     NC29881
+AGeorge      Pickett     1 Emmittsburg Road  Gettysburg  PA20111
+ARip         Torne       444 Sissors Ct      Detroit     MI37001
+P
+AJoAnn       Reisen      45 Sable Palm Dr    JacksonvilleFL31545
+CJanet       Vandyke     2Zieler      
+AGeorigia    Justice     1492 Balance Circle Tacoma      WA88290
+ABarry       Goldwater   358 Glitter Road    Flagstaff   AZ79455
+DEllen       Planters    
+AJoy         Butler      5643 Heavens Way    Provo       UT70276
+AScott       Bowie       7123 Western Road   Fargo       ND56702
+AFrank       Nelson      991 Main Street     Eugene      OR90023
+AMarie       Sandfort    7629 Plains Ave     RapidCity   SD59913
+P
+APatsy       Cline       1961 Song Blvd      Bolder      CO69030
+ADebbie      Ford        445 Terminal Dr     Lincoln     NE68445
+ALinda       Waters      334 Northside Dr    Bangor      ME02396
+CMartha      Washington  5SC
+AJohn        Dough       99 Sunset Blvd      Seaside     NH06675
+AEvan        Zapinski    101 Mercury Lane    Crossroads  VT11022
+AEdward      Kennedy     1969 Bridge Road    Boston      MA12292
+AMargaret    York        772 Mountain Road   Raleigh     NC25569
+ABobby       Knight      1997 Ball Court     IndianapolisIN44667
+AKirby       Puckett     65 Rose Ave         St.Paul     MN55992
+ACarrol      Upton       9 Cross Road        Indiangap   WY70882
+CFrank       Nelson      36001 First Street   
+ARico        Kota        711 Chance Street   Reno        NV83452
+ACharlie     Farmer      25 Potato Place     Boise       ID80023
+ALisa        Anderson    2001 Utah Street    CedarRapids IA60245
+ADonald      Isway       15 Maryland Ave     Topeka      KS69923
+P
+ALouis       Free        88 Wichita Road     Tulsa       OK73392
+ATracy       Roberts     1917 Page Drive     Shrevesport LA40023
+AAmy         Noble       10452 Dream Street  Hope        AR55392
+AAlbert      Bundy       11 Sandy Circle     Bigtree     MO64511
+CDonald      Isway       4Wichita     
+AOscar       Madison     7 Blueberry Drive   Paducah     KY40227
+ANancy       Oscar       55 Hall Way         Nashville   TN44332
+AApril       Patterson   1997 Spring Way     Birmingham  AL39982
+AKarl        Stewart     456 Count Blvd      Tupulo      MS40023
+DCarrol      Upton       
+DDan         Kota        
+DRico        Mays        
+P
+AJennifer    Tilman      9 Iceberg PLace     Nome        AK99345
+AWendy       King        299 Value Place     Trenton     NJ10982
+AKathy       Davison     1973 Murphy Dr      Rohobath    DE11292
+APeter       Quig        1678 Moose Drive    Hartford    CT08334
+AJoyce       Vanderwall  1967 Lesley Way     Providence  RI07622
+AWyatt       Earp        1870 Gunfight Dr    Tombstone   AZ87652
+CConnie      Hunger      1Constance   
+DLouis       Free        
+ATom         DoLittle    1942 Pacific Drive  San Jose    CA91234
+ASara        Miles       76 Sunset Blvd      SantaFe     NM72294
+AAlbert      Bell        1243 Lake Ave       Chicago     IL55466
+ABetty       White       1020 Jupiter Dr     Madison     WI57723
+AThomas      Jefferson   1776 Independence   Montpilier  VA26690
+P
+ARobert      Lee         21 Confederate Lane Leesburg    VA27781
+CTom         DoLittle    31945 Hawaii Cir     
+ATuesday     Nelson      1616 West Ave       Tampa       FL32239
+CKathy       Davison     611229
+DAlbert      Einstein    
+DLinda       Waters      
+DJohn        Dough       
+DChip        Chopper     
+DRico        Kota        
+P
+Q
+
+
+
+
+
+
+123456789012345678901234567890123456789012345678901234567890123
+         1         2         3         4         5         6

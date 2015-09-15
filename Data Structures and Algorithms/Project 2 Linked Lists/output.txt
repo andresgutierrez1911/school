@@ -1,0 +1,460 @@
+              Katelyn Schaffer        CSC 36000     Section 11
+                   Spring 2015       Assignment #2
+----------------------------------------------------------------------
+
+                                MAILING LIST
+Last Name    First Name   Address               City         State   Zip 
+===========================================================================
+Bell         Andrew       384 Pascal Avenue     Fort Worth    TX     65502
+Chopper      Chip         111 Airway            Butte         MT     85529
+Epson        Mike         297 Sessions Street   Hanover       PA     20324
+Grant        Ulyssis      4 Union Court         Yonkers       NY     07495
+Hunger       Connie       123 Crumley Cir       Valdosta      GA     30602
+Lee          Robert       21 Confederate Lane   Leesburg      VA     27781
+Lee          Sara         21 Confederate Lane   Leesburg      VA     27781
+Patton       George       1944 Army Hwy         Columbus      OH     37890
+Pickett      George       1 Emmittsburg Road    Gettysburg    PA     20111
+Planters     Ellen        6 Party Way           Happytrails   NY     07331
+Torne        Rip          444 Sissors Ct        Detroit       MI     37001
+Vandyke      Janet        2542 Symbol Lane      Dundalk       MD     21222
+Washington   Martha       45 Virgina Ave        Sumpner       NC     29881
+Wells        Terri        3414 Spring Drive     Lawton        OK     62091
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Katelyn Schaffer        CSC 36000     Section 11
+                   Spring 2015       Assignment #2
+----------------------------------------------------------------------
+
+                                MAILING LIST
+Last Name    First Name   Address               City         State   Zip 
+===========================================================================
+Bell         Andrew       384 Pascal Avenue     Fort Worth    TX     65502
+Bowie        Scott        7123 Western Road     Fargo         ND     56702
+Butler       Joy          5643 Heavens Way      Provo         UT     70276
+Chopper      Chip         111 Airway            Butte         MT     85529
+Epson        Mike         297 Sessions Street   Hanover       PA     20324
+Goldwater    Barry        358 Glitter Road      Flagstaff     AZ     79455
+Grant        Ulyssis      4 Union Court         Yonkers       NY     07495
+Hunger       Connie       123 Crumley Cir       Valdosta      GA     30602
+Justice      Georigia     1492 Balance Circle   Tacoma        WA     88290
+Lee          Robert       21 Confederate Lane   Leesburg      VA     27781
+Lee          Sara         21 Confederate Lane   Leesburg      VA     27781
+Nelson       Frank        991 Main Street       Eugene        OR     90023
+Patton       George       1944 Army Hwy         Columbus      OH     37890
+Pickett      George       1 Emmittsburg Road    Gettysburg    PA     20111
+Reisen       JoAnn        45 Sable Palm Dr      Jacksonville  FL     31545
+Sandfort     Marie        7629 Plains Ave       RapidCity     SD     59913
+Torne        Rip          444 Sissors Ct        Detroit       MI     37001
+Washington   Martha       45 Virgina Ave        Sumpner       NC     29881
+Wells        Terri        3414 Spring Drive     Lawton        OK     62091
+Zieler       Janet        2542 Symbol Lane      Dundalk       MD     21222
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Katelyn Schaffer        CSC 36000     Section 11
+                   Spring 2015       Assignment #2
+----------------------------------------------------------------------
+
+                                MAILING LIST
+Last Name    First Name   Address               City         State   Zip 
+===========================================================================
+Anderson     Lisa         2001 Utah Street      CedarRapids   IA     60245
+Bell         Andrew       384 Pascal Avenue     Fort Worth    TX     65502
+Bowie        Scott        7123 Western Road     Fargo         ND     56702
+Butler       Joy          5643 Heavens Way      Provo         UT     70276
+Chopper      Chip         111 Airway            Butte         MT     85529
+Cline        Patsy        1961 Song Blvd        Bolder        CO     69030
+Dough        John         99 Sunset Blvd        Seaside       NH     06675
+Epson        Mike         297 Sessions Street   Hanover       PA     20324
+Farmer       Charlie      25 Potato Place       Boise         ID     80023
+Ford         Debbie       445 Terminal Dr       Lincoln       NE     68445
+Goldwater    Barry        358 Glitter Road      Flagstaff     AZ     79455
+Grant        Ulyssis      4 Union Court         Yonkers       NY     07495
+Hunger       Connie       123 Crumley Cir       Valdosta      GA     30602
+Isway        Donald       15 Maryland Ave       Topeka        KS     69923
+Justice      Georigia     1492 Balance Circle   Tacoma        WA     88290
+Kennedy      Edward       1969 Bridge Road      Boston        MA     12292
+Knight       Bobby        1997 Ball Court       Indianapolis  IN     44667
+Kota         Rico         711 Chance Street     Reno          NV     83452
+Lee          Robert       21 Confederate Lane   Leesburg      VA     27781
+Lee          Sara         21 Confederate Lane   Leesburg      VA     27781
+Nelson       Frank        6001 First Street     Eugene        OR     90023
+Patton       George       1944 Army Hwy         Columbus      OH     37890
+Pickett      George       1 Emmittsburg Road    Gettysburg    PA     20111
+Puckett      Kirby        65 Rose Ave           St.Paul       MN     55992
+Reisen       JoAnn        45 Sable Palm Dr      Jacksonville  FL     31545
+Sandfort     Marie        7629 Plains Ave       RapidCity     SD     59913
+Torne        Rip          444 Sissors Ct        Detroit       MI     37001
+Upton        Carrol       9 Cross Road          Indiangap     WY     70882
+Washington   Martha       45 Virgina Ave        Sumpner       SC     29881
+Waters       Linda        334 Northside Dr      Bangor        ME     02396
+Wells        Terri        3414 Spring Drive     Lawton        OK     62091
+York         Margaret     772 Mountain Road     Raleigh       NC     25569
+Zapinski     Evan         101 Mercury Lane      Crossroads    VT     11022
+Zieler       Janet        2542 Symbol Lane      Dundalk       MD     21222
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Katelyn Schaffer        CSC 36000     Section 11
+                   Spring 2015       Assignment #2
+----------------------------------------------------------------------
+
+                                MAILING LIST
+Last Name    First Name   Address               City         State   Zip 
+===========================================================================
+Anderson     Lisa         2001 Utah Street      CedarRapids   IA     60245
+Bell         Andrew       384 Pascal Avenue     Fort Worth    TX     65502
+Bowie        Scott        7123 Western Road     Fargo         ND     56702
+Bundy        Albert       11 Sandy Circle       Bigtree       MO     64511
+Butler       Joy          5643 Heavens Way      Provo         UT     70276
+Chopper      Chip         111 Airway            Butte         MT     85529
+Cline        Patsy        1961 Song Blvd        Bolder        CO     69030
+Dough        John         99 Sunset Blvd        Seaside       NH     06675
+Epson        Mike         297 Sessions Street   Hanover       PA     20324
+Farmer       Charlie      25 Potato Place       Boise         ID     80023
+Ford         Debbie       445 Terminal Dr       Lincoln       NE     68445
+Free         Louis        88 Wichita Road       Tulsa         OK     73392
+Goldwater    Barry        358 Glitter Road      Flagstaff     AZ     79455
+Grant        Ulyssis      4 Union Court         Yonkers       NY     07495
+Hunger       Connie       123 Crumley Cir       Valdosta      GA     30602
+Isway        Donald       15 Maryland Ave       Wichita       KS     69923
+Justice      Georigia     1492 Balance Circle   Tacoma        WA     88290
+Kennedy      Edward       1969 Bridge Road      Boston        MA     12292
+Knight       Bobby        1997 Ball Court       Indianapolis  IN     44667
+Kota         Rico         711 Chance Street     Reno          NV     83452
+Lee          Robert       21 Confederate Lane   Leesburg      VA     27781
+Lee          Sara         21 Confederate Lane   Leesburg      VA     27781
+Madison      Oscar        7 Blueberry Drive     Paducah       KY     40227
+Nelson       Frank        6001 First Street     Eugene        OR     90023
+Noble        Amy          10452 Dream Street    Hope          AR     55392
+Oscar        Nancy        55 Hall Way           Nashville     TN     44332
+Patterson    April        1997 Spring Way       Birmingham    AL     39982
+Patton       George       1944 Army Hwy         Columbus      OH     37890
+Pickett      George       1 Emmittsburg Road    Gettysburg    PA     20111
+Puckett      Kirby        65 Rose Ave           St.Paul       MN     55992
+Reisen       JoAnn        45 Sable Palm Dr      Jacksonville  FL     31545
+Roberts      Tracy        1917 Page Drive       Shrevesport   LA     40023
+Sandfort     Marie        7629 Plains Ave       RapidCity     SD     59913
+Stewart      Karl         456 Count Blvd        Tupulo        MS     40023
+Torne        Rip          444 Sissors Ct        Detroit       MI     37001
+Washington   Martha       45 Virgina Ave        Sumpner       SC     29881
+Waters       Linda        334 Northside Dr      Bangor        ME     02396
+Wells        Terri        3414 Spring Drive     Lawton        OK     62091
+York         Margaret     772 Mountain Road     Raleigh       NC     25569
+Zapinski     Evan         101 Mercury Lane      Crossroads    VT     11022
+Zieler       Janet        2542 Symbol Lane      Dundalk       MD     21222
+
+ 
+* Record of Dan         Kota         not found. Attempt to delete record failed!
+
+* Record of Rico        Mays         not found. Attempt to delete record failed!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Katelyn Schaffer        CSC 36000     Section 11
+                   Spring 2015       Assignment #2
+----------------------------------------------------------------------
+
+                                MAILING LIST
+Last Name    First Name   Address               City         State   Zip 
+===========================================================================
+Anderson     Lisa         2001 Utah Street      CedarRapids   IA     60245
+Bell         Albert       1243 Lake Ave         Chicago       IL     55466
+Bell         Andrew       384 Pascal Avenue     Fort Worth    TX     65502
+Bowie        Scott        7123 Western Road     Fargo         ND     56702
+Bundy        Albert       11 Sandy Circle       Bigtree       MO     64511
+Butler       Joy          5643 Heavens Way      Provo         UT     70276
+Chopper      Chip         111 Airway            Butte         MT     85529
+Cline        Patsy        1961 Song Blvd        Bolder        CO     69030
+Davison      Kathy        1973 Murphy Dr        Rohobath      DE     11292
+DoLittle     Tom          1942 Pacific Drive    San Jose      CA     91234
+Dough        John         99 Sunset Blvd        Seaside       NH     06675
+Earp         Wyatt        1870 Gunfight Dr      Tombstone     AZ     87652
+Epson        Mike         297 Sessions Street   Hanover       PA     20324
+Farmer       Charlie      25 Potato Place       Boise         ID     80023
+Ford         Debbie       445 Terminal Dr       Lincoln       NE     68445
+Goldwater    Barry        358 Glitter Road      Flagstaff     AZ     79455
+Grant        Ulyssis      4 Union Court         Yonkers       NY     07495
+Hunger       Constance    123 Crumley Cir       Valdosta      GA     30602
+Isway        Donald       15 Maryland Ave       Wichita       KS     69923
+Jefferson    Thomas       1776 Independence     Montpilier    VA     26690
+Justice      Georigia     1492 Balance Circle   Tacoma        WA     88290
+Kennedy      Edward       1969 Bridge Road      Boston        MA     12292
+King         Wendy        299 Value Place       Trenton       NJ     10982
+Knight       Bobby        1997 Ball Court       Indianapolis  IN     44667
+Kota         Rico         711 Chance Street     Reno          NV     83452
+Lee          Robert       21 Confederate Lane   Leesburg      VA     27781
+Lee          Sara         21 Confederate Lane   Leesburg      VA     27781
+Madison      Oscar        7 Blueberry Drive     Paducah       KY     40227
+Miles        Sara         76 Sunset Blvd        SantaFe       NM     72294
+Nelson       Frank        6001 First Street     Eugene        OR     90023
+Noble        Amy          10452 Dream Street    Hope          AR     55392
+Oscar        Nancy        55 Hall Way           Nashville     TN     44332
+Patterson    April        1997 Spring Way       Birmingham    AL     39982
+Patton       George       1944 Army Hwy         Columbus      OH     37890
+Pickett      George       1 Emmittsburg Road    Gettysburg    PA     20111
+Puckett      Kirby        65 Rose Ave           St.Paul       MN     55992
+Quig         Peter        1678 Moose Drive      Hartford      CT     08334
+Reisen       JoAnn        45 Sable Palm Dr      Jacksonville  FL     31545
+Roberts      Tracy        1917 Page Drive       Shrevesport   LA     40023
+Sandfort     Marie        7629 Plains Ave       RapidCity     SD     59913
+Stewart      Karl         456 Count Blvd        Tupulo        MS     40023
+Tilman       Jennifer     9 Iceberg PLace       Nome          AK     99345
+Torne        Rip          444 Sissors Ct        Detroit       MI     37001
+Vanderwall   Joyce        1967 Lesley Way       Providence    RI     07622
+Washington   Martha       45 Virgina Ave        Sumpner       SC     29881
+Waters       Linda        334 Northside Dr      Bangor        ME     02396
+Wells        Terri        3414 Spring Drive     Lawton        OK     62091
+White        Betty        1020 Jupiter Dr       Madison       WI     57723
+York         Margaret     772 Mountain Road     Raleigh       NC     25569
+Zapinski     Evan         101 Mercury Lane      Crossroads    VT     11022
+Zieler       Janet        2542 Symbol Lane      Dundalk       MD     21222
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Katelyn Schaffer        CSC 36000     Section 11
+                   Spring 2015       Assignment #2
+----------------------------------------------------------------------
+
+                                MAILING LIST
+Last Name    First Name   Address               City         State   Zip 
+===========================================================================
+Anderson     Lisa         2001 Utah Street      CedarRapids   IA     60245
+Bell         Albert       1243 Lake Ave         Chicago       IL     55466
+Bell         Andrew       384 Pascal Avenue     Fort Worth    TX     65502
+Bowie        Scott        7123 Western Road     Fargo         ND     56702
+Bundy        Albert       11 Sandy Circle       Bigtree       MO     64511
+Butler       Joy          5643 Heavens Way      Provo         UT     70276
+Cline        Patsy        1961 Song Blvd        Bolder        CO     69030
+Davison      Kathy        1973 Murphy Dr        Rohobath      DE     11229
+DoLittle     Tom          1945 Hawaii Cir       San Jose      CA     91234
+Earp         Wyatt        1870 Gunfight Dr      Tombstone     AZ     87652
+Epson        Mike         297 Sessions Street   Hanover       PA     20324
+Farmer       Charlie      25 Potato Place       Boise         ID     80023
+Ford         Debbie       445 Terminal Dr       Lincoln       NE     68445
+Goldwater    Barry        358 Glitter Road      Flagstaff     AZ     79455
+Grant        Ulyssis      4 Union Court         Yonkers       NY     07495
+Hunger       Constance    123 Crumley Cir       Valdosta      GA     30602
+Isway        Donald       15 Maryland Ave       Wichita       KS     69923
+Jefferson    Thomas       1776 Independence     Montpilier    VA     26690
+Justice      Georigia     1492 Balance Circle   Tacoma        WA     88290
+Kennedy      Edward       1969 Bridge Road      Boston        MA     12292
+King         Wendy        299 Value Place       Trenton       NJ     10982
+Knight       Bobby        1997 Ball Court       Indianapolis  IN     44667
+Lee          Robert       21 Confederate Lane   Leesburg      VA     27781
+Lee          Sara         21 Confederate Lane   Leesburg      VA     27781
+Madison      Oscar        7 Blueberry Drive     Paducah       KY     40227
+Miles        Sara         76 Sunset Blvd        SantaFe       NM     72294
+Nelson       Frank        6001 First Street     Eugene        OR     90023
+Nelson       Tuesday      1616 West Ave         Tampa         FL     32239
+Noble        Amy          10452 Dream Street    Hope          AR     55392
+Oscar        Nancy        55 Hall Way           Nashville     TN     44332
+Patterson    April        1997 Spring Way       Birmingham    AL     39982
+Patton       George       1944 Army Hwy         Columbus      OH     37890
+Pickett      George       1 Emmittsburg Road    Gettysburg    PA     20111
+Puckett      Kirby        65 Rose Ave           St.Paul       MN     55992
+Quig         Peter        1678 Moose Drive      Hartford      CT     08334
+Reisen       JoAnn        45 Sable Palm Dr      Jacksonville  FL     31545
+Roberts      Tracy        1917 Page Drive       Shrevesport   LA     40023
+Sandfort     Marie        7629 Plains Ave       RapidCity     SD     59913
+Stewart      Karl         456 Count Blvd        Tupulo        MS     40023
+Tilman       Jennifer     9 Iceberg PLace       Nome          AK     99345
+Torne        Rip          444 Sissors Ct        Detroit       MI     37001
+Vanderwall   Joyce        1967 Lesley Way       Providence    RI     07622
+Washington   Martha       45 Virgina Ave        Sumpner       SC     29881
+Wells        Terri        3414 Spring Drive     Lawton        OK     62091
+White        Betty        1020 Jupiter Dr       Madison       WI     57723
+York         Margaret     772 Mountain Road     Raleigh       NC     25569
+Zapinski     Evan         101 Mercury Lane      Crossroads    VT     11022
+Zieler       Janet        2542 Symbol Lane      Dundalk       MD     21222
+
+ 
+* Robert       Lee          is already in the list. Attempt to add duplicate record failed!
+
+* Record of Albert      Einstein     not found. Attempt to delete record failed!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --------------------------------- 
+|      END OF PROGRAM OUTPUT      |
+ --------------------------------- 

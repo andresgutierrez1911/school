@@ -1,0 +1,41 @@
+ 1 Bill Gateway             32
+ 3 Wanda Moore              17
+ 4 Ellen Hayes              2
+ 6 Dale Evens               13
+ 7 Hedda Lettuce            6  
+ 8 Tom Terrific             22
+10 Donnie Moste             11
+12 Lonnie Anderson          31
+13 Yogi Bear                22
+16 Sam Spade                3
+20 Dolly Madison            48
+21 Davy Jones               6
+22 Albert Pujols            12
+23 Tom Heart                15
+24 Dana Andrews             8
+28 Freddie Freeloader       43
+30 Johnny Unites            19
+33 Henry Smith              35
+35 Ron DeVous               10
+39 Ron Reagan               25
+40 Charles Babbage          14 
+49 Ada Lovelace             4
+50 Cal Ripkin               7
+52 Mickey Mouse             16
+53 Donald Duck              30
+57 Johnny Walker            26
+60 Ira Hayes                9
+62 Yosemite Sam             10
+65 Abe Lincoln              3
+67 Duddly DoRight           12
+71 Alexander Bell           18
+72 Nice Guy                 5
+74 Ima Hoge                 12
+75 Vincent Price            22
+78 Doctor Pepper            8
+80 Peter Pann               19
+81 Ross Overbeek            3
+84 Barbara Blum             6
+87 Kathy Quashknock         8
+89 James Garfield           2
+-99 No More                  0
