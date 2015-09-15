@@ -1,0 +1,104 @@
+/*
+style.css
+Just a stylesheet
+Katie Schaffer
+*/
+
+body {
+  text-align: center;
+  background: rgba(147,206,222,1);
+  color: #888888;
+  font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+  /* gradient */
+  background: -moz-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(147,206,222,1)), color-stop(41%, rgba(117,189,209,1)), color-stop(100%, rgba(73,165,191,1)));
+  background: -webkit-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+  background: -o-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+  background: -ms-linear-gradient(left, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+  background: linear-gradient(to right, rgba(147,206,222,1) 0%, rgba(117,189,209,1) 41%, rgba(73,165,191,1) 100%);
+}
+
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
+
+p {
+}
+
+h3.note, p.homelink {
+    font-size: 70%;
+}
+
+a:link {color: #999999}
+a:visited {color: #999999}
+a:hover {color: #BBBBBB}
+a:active {color: #999999}
+
+h1.title {
+  color: #FFFFFF;
+  font-size: 300%;
+  margin-top: 50px;
+  text-shadow: 2px 2px rgba(0,0,0,0.3);
+}
+
+#main {
+  background-color: #FFFFFF;
+  border: 1px solid #CCCCCC;
+  border-right: 3px solid #CCCCCC;
+  border-bottom: 3px solid #CCCCCC;;
+  box-shadow: 3px 3px rgba(0,0,0,0.3);
+  min-height: 300px;
+  width: 70%;
+  overflow: auto;
+  padding: 30px;
+  position: relative;
+  display: inline-block;
+  border-radius: 10px;
+  text-align: left;
+  -webkit-border-radius: 10px;
+}
+#main.centered {
+  text-align: center;
+}
+
+/* Tables */
+table {
+  /*display: inline-block;*/
+}
+th {
+    background-color: #AAAAAA;
+    color: #FFFFFF;
+    border: 0px solid #AAAAAA;
+    padding: 3px;
+}
+td {
+    border-bottom: 1px dashed #CCCCCC;
+    border-left: 1px dashed #CCCCCC;
+    padding: 3px 25px;
+}
+tr:first-child>td {
+    border-top: 1px dashed #CCCCCC;
+}
+tr>td:last-child {
+    border-right: 1px dashed #CCCCCC;
+}
+tr:nth-child(2n) td {
+    background-color: #FAFAFA
+}
+
+span.list-error {
+    padding: 0;
+    margin: 0;
+    font-size: 70%;
+    color: #AA0000;
+}
+
+.footer {
+  color: #EEEEEE;
+  font-size: 80%;
+}
