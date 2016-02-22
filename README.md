@@ -1,13 +1,13 @@
 # School
 This is where I will keep a mass archive of old school projects.
 
-# Included Classwork and Highlights
-- Data Structures and Algorithms
+# Repo Structure
+- `/DataStructs-and-Algorithms` *Data Structures and Algorithms*
  - Languages: C++
- - Favorite: Stacks exercise: Converting infix to postfix expressions
-- Principles of Databases
+ - Highlight: Stack exercise (Converting infix to postfix expressions)
+- `/Databases` *Principles of Databases*
  - Languages: C++, SQL, PHP
- - Favorite: PHP Web App
-- GUI
+ - Highlight: PHP Web App
+- `/GUI` *GUI Applications*
  - Languages: Java
- - Favorite: Connect Four game
+ - Highlight: Connect Four game
